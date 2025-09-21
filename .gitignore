@@ -1,0 +1,5 @@
+temp/
+*.tmp
+*.log
+__pycache__/
+.idea/
